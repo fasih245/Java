@@ -3,7 +3,8 @@ public class Circle {
     String color;
      
     Circle(){
-        radius=8;
+        radius=8
+        ;
         color="Green";
     }
     Circle(int radius,String color){
